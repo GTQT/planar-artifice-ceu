@@ -1,3 +1,5 @@
+项目目标：
+修复贵金属的无中生有！！！！
 # [Planar Artifice](https://www.curseforge.com/minecraft/mc-mods/planar-artifice): Continuation
 *Reaching the Skies with the Arcane of the Earth.*
 
